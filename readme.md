@@ -34,7 +34,6 @@
 - [consult-org-roam](https://github.com/jgru/consult-org-roam) - A collection of functions to operate org-roam with the help of consult and its live preview feature. You can use it to search, filter and find notes, preview backlinks as well as forward links, and sift through currently open org-roam buffers.
 - [Zetteldesk.el](https://github.com/Vidianos-Giannitsis/zetteldesk.el) - Zetteldesk.el is an emacs library built on top of org-roam with the purpose of easier revision on various subjects and a better outliner tool for emacs 
 - [org-roam-bibtex](https://github.com/org-roam/org-roam-bibtex) - Org Roam integration with bibliography management software 
-- 
 
 ## Resources
 

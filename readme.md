@@ -35,6 +35,9 @@
 - [Taking org-roam everywhere with logseq](https://coredumped.dev/2021/05/26/taking-org-roam-everywhere-with-logseq/) - A way (with elisp script) to make Org-roam work with Logseq for mobile app experience.
 - [Dominik Honnef's Org-roam based workflow for taking notes and writing articles](https://honnef.co/articles/my-org-roam-workflows-for-taking-notes-and-writing-articles/) - a very thorough and complex system that captures notes, articles that he reads on the web, articles for his blog, and miscellaneous notes as they occur to him. The system automatically maintains a bibliography and can massage a note intended for his blog to make it compatible with Hugo, which he uses to publish his blog.
 - [Using Org-roam as a CRM](https://www.youtube.com/watch?v=DteN5uBV5ts) - A makeshift personal CRM setup in Org-roam.
+- [(EmacsConf 2020) Org-roam: Presentation, Demonstration, and What’s on the Horizon](https://emacsconf.org/2020/schedule/16)
+- [(EmacsConf 2020) Org-mode and Org-Roam for Scholars and Researchers](https://emacsconf.org/2020/schedule/17)
+- [(EmacsConf 2020) Org-roam: Technical Presentation](https://emacsconf.org/2020/schedule/18)
 
 <!-- END CONTENT -->
 

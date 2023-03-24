@@ -6,12 +6,6 @@
 
 # Awesome org-roam [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-<!-- image -->
-
-<a href="" target="_blank" rel="noopener noreferrer">
-  <img src="" />
-</a>
-
 <!-- description -->
 
 > Org-roam is a plain-text knowledge management system. It brings some of [Roam's](https://www.roamresearch.com/) more powerful features into the [Org-mode](https://orgmode.org/) ecosystem.

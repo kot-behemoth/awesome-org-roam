@@ -46,6 +46,7 @@
 - [(EmacsConf 2020) Org-mode and Org-Roam for Scholars and Researchers](https://emacsconf.org/2020/schedule/17)
 - [(EmacsConf 2020) Org-roam: Technical Presentation](https://emacsconf.org/2020/schedule/18)
 - [Zettelkasten, Emacs, and Creative Thinking](https://www.alexkehayias.com/essays/zettelkasten-setup/) - a walkthrough of note taking practice using Emacs, org-roam, hugo, Working Copy, and GitHub Actions.
+- [(EmacsConf 2022) Writing and organizing literature notes for scientific writing](https://emacsconf.org/2022/talks/science/) - Using Emacs and org-mode for managing bibliography with ivy-bibtex, writing literature notes using org-noter and organizing them in a Zettelkasten system built with org-roam using zetteldesk.
 
 <!-- END CONTENT -->
 

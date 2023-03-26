@@ -34,6 +34,20 @@
 - [consult-org-roam](https://github.com/jgru/consult-org-roam) - A collection of functions to operate org-roam with the help of consult and its live preview feature. You can use it to search, filter and find notes, preview backlinks as well as forward links, and sift through currently open org-roam buffers.
 - [Zetteldesk.el](https://github.com/Vidianos-Giannitsis/zetteldesk.el) - Zetteldesk.el is an emacs library built on top of org-roam with the purpose of easier revision on various subjects and a better outliner tool for emacs.
 - [org-roam-bibtex](https://github.com/org-roam/org-roam-bibtex) - Org Roam integration with bibliography management software.
+- [nursery](https://github.com/chrisbarrett/nursery) - "This is a repository for Emacs Lisp packages that I think could be useful for friends and coworkers. It’s an experimental, low-pressure space for me just to hack on Lisp with the garage door open."
+    -  [org-roam-review](https://github.com/chrisbarrett/nursery/blob/main/lisp/org-roam-review.el) _(incubating)_ - Implements a system for managing [Evergreen Notes](https://maggieappleton.com/evergreens) on top of org-roam. Provides a spaced-repetition system that prompts you to review notes or revisit stubs and help them grow to maturity.
+    -  [org-roam-dblocks](https://github.com/chrisbarrett/nursery/blob/main/lisp/org-roam-dblocks.el) _(incubating)_ - Add org dynamic blocks that implement “canned searches” for org-roam. You can search for notes or list backlinks, then do additional filtering based on title or tags.
+    -  [org-roam-search](https://github.com/chrisbarrett/nursery/blob/main/lisp/org-roam-search.el) _(incubating)_ - Search your org-roam files for a string and display a buffer of results. Results are shown with collapsible previews, like in the org-roam buffer.
+    -  [org-roam-links](https://github.com/chrisbarrett/nursery/blob/main/lisp/org-roam-links.el) _(incubating)_ - Display a tree of backlinks _and_ forward links up to a configurable depth. Useful for looking for unexpected connections without busting open a full-fledged graph UI. Contrasts with the normal org-roam buffer, which only shows backlinks.
+    -  [org-roam-consult](https://github.com/chrisbarrett/nursery/blob/main/lisp/org-roam-consult.el) _(incubating)_ - A version of `consult-ripgrep` that shows node titles instead of filenames so you don’t have to guess anymore.
+    -  [org-roam-slipbox](https://github.com/chrisbarrett/nursery/blob/main/lisp/org-roam-slipbox.el) (_incubating_) Automatically tag nodes according to the name of the directory they’re in, and easily refile between these directories.
+    -  [org-roam-gc](https://github.com/chrisbarrett/nursery/blob/main/lisp/org-roam-gc.el) _(spike)_ - Automatically delete empty dailies files so they don’t build up forever.
+    -  [org-roam-rewrite](https://github.com/chrisbarrett/nursery/blob/main/lisp/org-roam-rewrite.el) _(spike)_ - Commands for renaming nodes, rewriting links and deleting nodes with redirection so you can refactor notes without leaving broken links.
+    -  [timekeep](https://github.com/chrisbarrett/nursery/blob/main/lisp/timekeep.el) _(spike)_ - Provides a structured way to use org-roam for representing multiple clients/employers. It provides a simple clocking interface built on org-clock and provides integrations with org-capture.
+    -  [org-roam-refill-previews](https://github.com/chrisbarrett/nursery/blob/main/lisp/org-roam-refill-previews.el) _(spike)_ - Refill previews in the backlinks buffer so they fit the window.
+    -  [org-roam-lazy-previews](https://github.com/chrisbarrett/nursery/blob/main/lisp/org-roam-lazy-previews.el) _(spike)_ - Compute previews lazily for much better performance in buffers with many backlinks or reflinks.
+    -  [org-format](https://github.com/chrisbarrett/nursery/blob/main/lisp/org-format.el) (_spike_) - Formatter for org-mode files to ensure consistency.
+- [org-roam-timestamps](https://github.com/tefkah/org-roam-timestamps) - Add modified and creation timestamps to the org-roam property drawer.
 
 ## Resources
 

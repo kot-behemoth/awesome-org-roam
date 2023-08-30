@@ -48,6 +48,7 @@
     -  [org-roam-lazy-previews](https://github.com/chrisbarrett/nursery/blob/main/lisp/org-roam-lazy-previews.el) _(spike)_ - Compute previews lazily for much better performance in buffers with many backlinks or reflinks.
     -  [org-format](https://github.com/chrisbarrett/nursery/blob/main/lisp/org-format.el) (_spike_) - Formatter for org-mode files to ensure consistency.
 - [org-roam-timestamps](https://github.com/tefkah/org-roam-timestamps) - Add modified and creation timestamps to the org-roam property drawer.
+- [org-roam-ql-ql](https://melpa.org/#/org-roam-ql-ql) - This package provides an interface to query an org-roam databases and display it.
 
 ## Resources
 
